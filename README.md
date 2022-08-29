@@ -1,8 +1,8 @@
 # Model Based Learning on Load Unload Task (Prioritized Sweeping)
 ## Problem Definition
-In this project, the problem is implementing the flat Q-learning algorithm and the Qlearning
-algorithm with ETs which uses replacing traces for the environment. Also
-environment should be created dynamically according to user’s input.
+In this project, the problem is implementing the prioritized sweeping algorithm which
+makes model based learning. Also environment should be created dynamically according
+to user’s input.
 <br>
 ## Methodology
 ### Creating Environment
